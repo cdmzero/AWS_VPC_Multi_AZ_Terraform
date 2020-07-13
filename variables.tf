@@ -82,7 +82,7 @@ variable "aws_amis" {
 }
 
 variable "project" {
-    default = "elbweb"
+    default = "ELB"
 }
 
 variable "environment"{
